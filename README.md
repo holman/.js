@@ -1,5 +1,3 @@
-# holman/.js
-
 ## ~/.js
 
 These are scripts for [dotjs](https://github.com/defunkt/dotjs), a überhawt
